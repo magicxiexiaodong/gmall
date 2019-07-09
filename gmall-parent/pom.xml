@@ -7,6 +7,7 @@
     <groupId>com.xxd.gmall</groupId>
     <artifactId>gmall-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>../gmall-bean</module>
         <module>../gmall-interface</module>
@@ -14,6 +15,7 @@
         <module>../gmall-service-util</module>
         <module>../gmall-web-util</module>
     </modules>
+
     <packaging>pom</packaging>
 
     <!--定义jar包，版本号 -->
